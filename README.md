@@ -6,5 +6,5 @@ Keeping track of what I read and plan to read — just for self-motivation.
 * Cadernos de Lanzarote by José Saramago
 
 ## Completed
-* Migrations by Charlotte McConaghy
-* Time Machine by H.G. Wells
+* [Migrations](/2024/migrations.md) by Charlotte McConaghy
+* [The Time Machine](/2024/the-time-machine.md) by H.G. Wells
